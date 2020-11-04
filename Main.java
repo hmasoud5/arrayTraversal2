@@ -5,7 +5,7 @@ class Main {
    //Use a For or While loop to loop backwards through array
    for(int i = 9; i >=0;i--){
      //Only print the value if it is even
-     if(numbers[i]){
+     if(numbers[i] %2 == 0 ){
 
      }
      
